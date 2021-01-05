@@ -2,7 +2,7 @@
 
 Click the link and show this website [VISIT WEBSITE](https://webdeveloperbashar.github.io/web-portfolio/ "Show Website")
 
-## Beginner Main Problem in CSS
+## Main style of style.css
 
 <p>Default body css:</p>
 
